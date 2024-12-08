@@ -1,0 +1,13 @@
+The Scholar's Haven is a bustling library known for its diverse collection of books and dedicated members. To modernize its operations, the library is transitioning to a digital database system to manage books, members, and activities efficiently. Your task is to develop and optimize this system.
+Tasks:
+1.	Add a new book to the library (title, author, genre, ISBN, and quantity).
+2.	Check if a book is available for borrowing by its ISBN.
+3.	Allow a member to borrow a book (member_id, ISBN, borrow_date, return_date).
+4.	List all books currently borrowed by a specific member (member_id).
+5.	Add a new member to the library (name, email, phone, and membership_date).
+6.	List all members who borrowed books in a given month.
+7.	Record the return of a borrowed book and update its quantity.
+8.	List the most borrowed books, ordered by borrowing frequency.
+9.	Identify members with overdue books.
+10.	Recommend books to members based on genres of books they’ve previously borrowed.
+
